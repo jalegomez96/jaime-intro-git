@@ -1,2 +1,2 @@
-Estamos aprendiendo a crear ramas
+Estamos practicando ramas en git
 Estamos practicando git
